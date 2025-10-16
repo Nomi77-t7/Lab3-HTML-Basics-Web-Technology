@@ -1,0 +1,8 @@
+Validation Report – Lab 3 (HTML Basics)
+
+File Validated: index.html
+Tool Used: W3C HTML Validator
+Result: No errors or warnings found.
+
+Checked Date: [16 Oct,2025]
+Student Name: [M.Numan Ali]
